@@ -83,7 +83,7 @@ Finally, it displays:
 
 Technologies Used
 
-- Python 3
+- Python 
 - File Handling
 - Strings
 - Loops
